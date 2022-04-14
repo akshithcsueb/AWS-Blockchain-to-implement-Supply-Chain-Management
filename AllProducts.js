@@ -1,3 +1,5 @@
+// Generates a list of products from previously-retrieved data.
+
 import React, { useEffect } from 'react';
 import Product from './Product';
 import CreateProduct from './CreateProduct';
